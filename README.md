@@ -60,6 +60,6 @@ Senior QA, SDET, or AI-focused automation roles, remote or hybrid across Europe.
 
 If that sounds like your team, let's talk.
 
-* **LinkedIn:** [Jason Pham](https://www.linkedin.com/in/jason-hung-ph/)
+* **LinkedIn:** [Henrik Pham](https://www.linkedin.com/in/henrik-hung-ph/)
 * **Email:** pqd.hung@gmail.com
 * **Location:** Turku, Finland
